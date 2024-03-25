@@ -4,5 +4,7 @@ public class Buch {
 
         System.out.println("Mehmet hat das erste Kapital korrigiert");
 
+        System.out.println("Mehmet hat neue Veränderungen");
+
     }
 }
